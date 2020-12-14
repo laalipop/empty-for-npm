@@ -9,7 +9,7 @@ doc
 logs
 *.log
 npm-debug.log*
-yarn-debug.log*
+yarn-debug.log*npx eslint --init
 yarn-error.log*
 
 # Runtime data
